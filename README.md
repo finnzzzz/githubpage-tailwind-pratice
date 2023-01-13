@@ -1,1 +1,1 @@
-Create a github page using tailwind
+Create a github page with tailwind
